@@ -1,0 +1,15 @@
+Face-Emotion-Recogntion:
+
+1. So, we can train our custom model, here with facial-emotion-recogntion.py and have a dataset as well for 5k samples, probably can use gpu in this case and run the best model for 7 different emotions and use it as well along with face recogntion. 
+
+2. base case works real-bad so, we need to train a model for sure for 7 different emotions - 
+    1. Disgust
+    2. Surprise
+    3. Sad
+    4. Angry
+    5. Fear
+    6. Happy
+    7. Neutral
+
+
+This package - EmoPy looks good for emotional analysis from facial features, instead of text.
