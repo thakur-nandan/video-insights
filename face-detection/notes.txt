@@ -1,0 +1,6 @@
+Face Detection and Face Recogntion:
+
+1. Install dlib package in your laptop via this https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf
+2. pip install face_recognition
+3. We can work on making or getting results faster and more efficiently.
+4. Think about more ways for metadata generation.
