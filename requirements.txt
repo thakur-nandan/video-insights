@@ -71,7 +71,7 @@ scikit-neuralnetwork==0.7
 scipy==1.1.0
 six==1.14.0
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.5.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 Theano==1.0.4
